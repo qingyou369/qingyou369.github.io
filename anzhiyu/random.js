@@ -1,4 +1,4 @@
-var posts=["2025/01/19/1/","2025/01/19/2/","2025/01/22/3/","2025/01/23/4/"];function toRandomPost(){
+var posts=["2025/01/19/1/","2025/02/03/5/","2025/02/06/6/","2025/01/23/4/","2025/01/19/2/","2025/01/22/3/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
@@ -27,7 +27,7 @@ var posts=["2025/01/19/1/","2025/01/19/2/","2025/01/22/3/","2025/01/23/4/"];func
   
       let count = 0;
 
-      while (friend_link_list.length && count < 3) {
+      while (friend_link_list.length && count < 4) {
         const randomIndex = Math.floor(Math.random() * friend_link_list.length);
         const { name, link, avatar } = friend_link_list.splice(randomIndex, 1)[0];
   
