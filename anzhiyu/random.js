@@ -1,6 +1,6 @@
 var posts=["462677bb/","62019/","41559/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
-  };var friend_link_list=[{"name":"Hexo","link":"https://hexo.io/zh-cn/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"快速、简洁且高效的博客框架","siteshot":"/img/default_cover.jpg"},{"name":"安知鱼主题","link":"https://hexo.anheyu.com/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"生活明朗，万物可爱","siteshot":"/img/default_cover.jpg"},{"name":"安知鱼","link":"https://hexo.anheyu.com/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"生活明朗，万物可爱","siteshot":"/img/default_cover.jpg","color":"vip","tag":"技术"},{"name":"安知鱼","link":"https://hexo.anheyu.com/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"生活明朗，万物可爱","recommend":true}];
+  };var friend_link_list=[{"name":"小橙崽","link":"https://jisou.dpdns.org/","avatar":"https://www.helloimg.com/i/2026/09/13/6aa66df647a86.png","descr":"爱折腾的小橙崽，分享工具、随笔与赣南脐橙果园日常","recommend":true}];
     var refreshNum = 1;
     function friendChainRandomTransmission() {
       const randomIndex = Math.floor(Math.random() * friend_link_list.length);
