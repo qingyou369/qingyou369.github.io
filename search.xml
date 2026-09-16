@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/16107/</url>
-    <content><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
-Quick StartCreate a new post$ hexo new &quot;My New Post&quot;
+    <title>这里填文章标题</title>
+    <url>/62020/</url>
+    <content><![CDATA[文章标题正文内容直接在这里写。
+二级标题普通文字，加粗，斜体。
 
-More info: Writing
-Run server$ hexo server
+无序列表项目
+列表项目2
 
-More info: Server
-Generate static files$ hexo generate
 
-More info: Generating
-Deploy to remote sites$ hexo deploy
+引用文本，适合备注、摘抄
 
-More info: Deployment
+超链接文字
+
+代码块内容
 ]]></content>
       <categories>
-        <category>技术</category>
+        <category>分类名称</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>博客</tag>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
       </tags>
   </entry>
   <entry>
@@ -70,6 +69,54 @@ git add .git commit -m &quot;更新文章内容&quot;git push
         <tag>云原生</tag>
         <tag>建站记录</tag>
         <tag>GitHub Actions</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益</title>
+    <url>/62019/</url>
+    <content><![CDATA[🔍 极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益电报搜索：@ethwc
+在 Telegram 庞大的生态中，海量频道、社群、资源繁杂分散，想要快速找到高质量、对口的内容非常耗时。而 电报搜索引擎 是一款专为中文用户优化的 Telegram 智能搜索引擎，主打：干净、快速、精准、可赚钱。
+无需复杂配置、无需手动翻群、无需到处找资源，输入关键词即可秒出结果，是目前体验极佳的 TG 通用检索工具。
+✨ 工具亮点
+中文适配优化：针对国内用户习惯调教，关键词匹配更精准
+检索速度极快：毫秒级响应，海量公开资源一键匹配
+界面干净简洁：无广告、无弹窗、无垃圾推送
+支持私密搜索：保护隐私，检索不留痕迹
+搜索即可赚钱：最大特色！每一次有效搜索都能产生收益，日常使用轻松薅福利
+
+📌 基础使用方法非常简单，零学习成本：
+
+进入极擞搜索官方群组
+直接发送任意关键词即可检索
+支持普通搜索 &#x2F; 私密搜索两种模式
+
+不管是想找优质社群、干货频道、学习资源、生活资讯，都可以一键搜到。
+💡 适合哪些场景使用？
+寻找高质量 TG 兴趣群组、交流社群
+查找优质博主频道、资讯更新账号
+搜集公开学习资料、技能干货、生活资源
+日常浏览、找内容、查资讯，替代漫无目的翻群
+
+🎯 为什么推荐大家用极擞搜索？很多新手使用 Telegram 最大的痛点就是：资源太多、找不到、很乱。
+极擞搜索直接解决这个问题：
+
+智能过滤垃圾内容、低质广告
+优先展示高热度、高质量公开内容
+操作极简，手机电脑都适配
+边使用、边收益，纯免费福利工具
+
+✅ 最后总结如果你经常使用 Telegram，想要一个 干净、快速、靠谱、还能赚点小收益 的检索工具，那 极擞搜索 绝对是必备神器。
+TG 世界内容繁杂，用好搜索，即可高效解锁全部优质资源。
+👉 极擞搜索，让你的 Telegram 使用更轻松、更高效、更有价值！
+]]></content>
+      <categories>
+        <category>工具分享</category>
+      </categories>
+      <tags>
+        <tag>工具分享</tag>
+        <tag>Telegram</tag>
+        <tag>资源检索</tag>
+        <tag>实用工具</tag>
       </tags>
   </entry>
   <entry>
@@ -121,54 +168,6 @@ git add .git commit -m &quot;更新文章内容&quot;git push
         <tag>新鲜水果</tag>
         <tag>产地直发</tag>
         <tag>农家果园</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益</title>
-    <url>/62019/</url>
-    <content><![CDATA[🔍 极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益电报搜索：@ethwc
-在 Telegram 庞大的生态中，海量频道、社群、资源繁杂分散，想要快速找到高质量、对口的内容非常耗时。而 电报搜索引擎 是一款专为中文用户优化的 Telegram 智能搜索引擎，主打：干净、快速、精准、可赚钱。
-无需复杂配置、无需手动翻群、无需到处找资源，输入关键词即可秒出结果，是目前体验极佳的 TG 通用检索工具。
-✨ 工具亮点
-中文适配优化：针对国内用户习惯调教，关键词匹配更精准
-检索速度极快：毫秒级响应，海量公开资源一键匹配
-界面干净简洁：无广告、无弹窗、无垃圾推送
-支持私密搜索：保护隐私，检索不留痕迹
-搜索即可赚钱：最大特色！每一次有效搜索都能产生收益，日常使用轻松薅福利
-
-📌 基础使用方法非常简单，零学习成本：
-
-进入极擞搜索官方群组
-直接发送任意关键词即可检索
-支持普通搜索 &#x2F; 私密搜索两种模式
-
-不管是想找优质社群、干货频道、学习资源、生活资讯，都可以一键搜到。
-💡 适合哪些场景使用？
-寻找高质量 TG 兴趣群组、交流社群
-查找优质博主频道、资讯更新账号
-搜集公开学习资料、技能干货、生活资源
-日常浏览、找内容、查资讯，替代漫无目的翻群
-
-🎯 为什么推荐大家用极擞搜索？很多新手使用 Telegram 最大的痛点就是：资源太多、找不到、很乱。
-极擞搜索直接解决这个问题：
-
-智能过滤垃圾内容、低质广告
-优先展示高热度、高质量公开内容
-操作极简，手机电脑都适配
-边使用、边收益，纯免费福利工具
-
-✅ 最后总结如果你经常使用 Telegram，想要一个 干净、快速、靠谱、还能赚点小收益 的检索工具，那 极擞搜索 绝对是必备神器。
-TG 世界内容繁杂，用好搜索，即可高效解锁全部优质资源。
-👉 极擞搜索，让你的 Telegram 使用更轻松、更高效、更有价值！
-]]></content>
-      <categories>
-        <category>工具分享</category>
-      </categories>
-      <tags>
-        <tag>工具分享</tag>
-        <tag>Telegram</tag>
-        <tag>资源检索</tag>
-        <tag>实用工具</tag>
       </tags>
   </entry>
 </search>
