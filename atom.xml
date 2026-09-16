@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>小橙崽</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://jisou.dpdns.org/</id>
+  <link href="https://jisou.dpdns.org/" rel="alternate"/>
+  <link href="https://jisou.dpdns.org/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 小橙崽</rights>
+  <subtitle>不要走，再看看吗！</subtitle>
+  <title>极搜</title>
+  <updated>2026-09-16T04:53:43.675Z</updated>
+  <entry>
+    <author>
+      <name>小橙崽</name>
+    </author>
+    <category term="建站记录" scheme="https://jisou.dpdns.org/categories/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
+    <category term="Hexo" scheme="https://jisou.dpdns.org/tags/Hexo/"/>
+    <category term="云原生" scheme="https://jisou.dpdns.org/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
+    <category term="建站记录" scheme="https://jisou.dpdns.org/tags/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
+    <category term="GitHub Actions" scheme="https://jisou.dpdns.org/tags/GitHub-Actions/"/>
+    <content>
+      <![CDATA[<p>折腾许久，终于搭建好了属于自己的 Hexo 个人博客。全程基于云原生环境搭建，依托 AI 辅助优化配置、调试主题，省去了本地繁琐的环境部署，真正实现了云端写作、云端维护、自动部署的极简博客工作流。</p><p>从此，写作不再受设备限制，随时随地都能记录生活、沉淀知识、分享心得。</p><h2 id="🌤-为什么选择-Hexo-云原生？"><a href="#🌤-为什么选择-Hexo-云原生？" class="headerlink" title="🌤 为什么选择 Hexo + 云原生？"></a>🌤 为什么选择 Hexo + 云原生？</h2><p>之前也了解过很多博客搭建方案，有的配置复杂、有的加载缓慢、有的需要本地环境常驻，对新手极其不友好。最终选择 Hexo，核心原因只有三个：<strong>轻量、简洁、高效</strong>。</p><p>搭配云原生开发环境后，优势被无限放大：</p><ul><li><strong>无需本地部署环境</strong>：不用在电脑安装 Node、Git、Hexo，全程云端操作</li><li><strong>AI 辅助快速搭建</strong>：主题配置、代码调试、部署脚本全部智能优化</li><li><strong>源码云端备份</strong>：所有博客源码自动同步 GitHub，不怕丢失、不怕换设备</li><li><strong>全自动部署更新</strong>：写完文章推送源码，网站自动编译、自动更新</li></ul><h2 id="⚙️-我的博客工作流（极简全自动）"><a href="#⚙️-我的博客工作流（极简全自动）" class="headerlink" title="⚙️ 我的博客工作流（极简全自动）"></a>⚙️ 我的博客工作流（极简全自动）</h2><p>经过多次调试，最终定型一套零负担写作流程，也是我未来长期使用的方式：</p><blockquote><p>云原生写文章 &#x2F; 改配置 → Git 提交源码 → GitHub Actions 自动编译 → 自动更新博客网站</p></blockquote><p>全程不需要手动编译、不需要本地部署、不需要折腾静态文件。</p><p>每次写完内容，只需要三行命令即可完成全部更新：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m <span class="string">&quot;更新文章内容&quot;</span></span><br><span class="line">git push</span><br></pre></td></tr></table></figure><p>推送完成后，GitHub 会自动构建、自动部署，几十秒后全网即可访问最新内容。</p><h2 id="📝-未来写作规划"><a href="#📝-未来写作规划" class="headerlink" title="📝 未来写作规划"></a>📝 未来写作规划</h2><p>搭建博客的初衷，不是跟风折腾，而是想给自己一个沉淀输出的窗口。</p><p>未来会在这里持续更新：</p><ul><li>日常随笔、生活感悟</li><li>技术学习记录、踩坑总结</li><li>优质文案、读书笔记、成长碎片</li><li>所见、所闻、所思、所想</li></ul><p>文字是最好的存档，时间会见证成长。</p><h2 id="✨-写在最后"><a href="#✨-写在最后" class="headerlink" title="✨ 写在最后"></a>✨ 写在最后</h2><p>从 0 到 1 搭建完整个博客，最大的感受是：技术的意义，是让记录变得更简单，让输出变得更自由。</p><p>往后，在这里认真记录、持续输出，慢慢打磨属于自己的一方小天地。</p><p>前路漫漫，亦灿灿，保持热爱，持续奔赴。</p><hr><p>本文首发于个人博客：<a href="https://qingyou369.github.io/">https://qingyou369.github.io</a></p>]]>
+    </content>
+    <id>https://jisou.dpdns.org/462677bb/</id>
+    <link href="https://jisou.dpdns.org/462677bb/"/>
+    <published>2026-09-16T04:00:00.000Z</published>
+    <summary>折腾许久，终于搭建好了属于自己的 Hexo 个人博客。全程云端搭建、AI 辅助配置，实现写完即推送、自动编译发布的极简写作流。</summary>
+    <title>开启云原生 Hexo 博客之旅｜个人建站记录</title>
+    <updated>2026-09-16T04:53:43.675Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小橙崽</name>
+    </author>
+    <category term="工具分享" scheme="https://jisou.dpdns.org/categories/%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/"/>
+    <category term="工具分享" scheme="https://jisou.dpdns.org/tags/%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/"/>
+    <category term="Telegram" scheme="https://jisou.dpdns.org/tags/Telegram/"/>
+    <category term="资源检索" scheme="https://jisou.dpdns.org/tags/%E8%B5%84%E6%BA%90%E6%A3%80%E7%B4%A2/"/>
+    <category term="实用工具" scheme="https://jisou.dpdns.org/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+    <content>
+      <![CDATA[<h1 id="🔍-极擞搜索｜Telegram-中文智能检索工具，搜索即可赚收益"><a href="#🔍-极擞搜索｜Telegram-中文智能检索工具，搜索即可赚收益" class="headerlink" title="🔍 极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益"></a>🔍 极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益</h1><p><strong>电报搜索：@ethwc</strong></p><p>在 Telegram 庞大的生态中，海量频道、社群、资源繁杂分散，想要快速找到高质量、对口的内容非常耗时。<br>而 <strong><a href="https://t.me/hamster_kombat_Bot/start?startapp=kentId6667043466">电报搜索引擎</a></strong> 是一款<strong>专为中文用户优化</strong>的 Telegram 智能搜索引擎，主打：<strong>干净、快速、精准、可赚钱</strong>。</p><p>无需复杂配置、无需手动翻群、无需到处找资源，输入关键词即可秒出结果，是目前体验极佳的 TG 通用检索工具。</p><h2 id="✨-工具亮点"><a href="#✨-工具亮点" class="headerlink" title="✨ 工具亮点"></a>✨ 工具亮点</h2><ul><li><strong>中文适配优化</strong>：针对国内用户习惯调教，关键词匹配更精准</li><li><strong>检索速度极快</strong>：毫秒级响应，海量公开资源一键匹配</li><li><strong>界面干净简洁</strong>：无广告、无弹窗、无垃圾推送</li><li><strong>支持私密搜索</strong>：保护隐私，检索不留痕迹</li><li><strong>搜索即可赚钱</strong>：最大特色！<strong>每一次有效搜索都能产生收益</strong>，日常使用轻松薅福利</li></ul><h2 id="📌-基础使用方法"><a href="#📌-基础使用方法" class="headerlink" title="📌 基础使用方法"></a>📌 基础使用方法</h2><p>非常简单，<strong>零学习成本</strong>：</p><ol><li>进入<a href="https://t.me/jisou?start=telegram_5227955038">极擞搜索</a>官方群组</li><li>直接发送任意关键词即可检索</li><li>支持普通搜索 &#x2F; <a href="https://t.me/jisou?start=telegram_5227955038">私密搜索</a>两种模式</li></ol><p>不管是想找优质社群、干货频道、学习资源、生活资讯，都可以一键搜到。</p><h2 id="💡-适合哪些场景使用？"><a href="#💡-适合哪些场景使用？" class="headerlink" title="💡 适合哪些场景使用？"></a>💡 适合哪些场景使用？</h2><ul><li>寻找高质量 TG 兴趣群组、交流社群</li><li>查找优质博主频道、资讯更新账号</li><li>搜集公开学习资料、技能干货、生活资源</li><li>日常浏览、找内容、查资讯，替代漫无目的翻群</li></ul><h2 id="🎯-为什么推荐大家用极擞搜索？"><a href="#🎯-为什么推荐大家用极擞搜索？" class="headerlink" title="🎯 为什么推荐大家用极擞搜索？"></a>🎯 为什么推荐大家用极擞搜索？</h2><p>很多新手使用 Telegram 最大的痛点就是：<strong>资源太多、找不到、很乱</strong>。</p><p>极擞搜索直接解决这个问题：</p><ul><li>智能过滤垃圾内容、低质广告</li><li>优先展示高热度、高质量公开内容</li><li>操作极简，手机电脑都适配</li><li><strong>边使用、边收益，纯免费福利工具</strong></li></ul><h2 id="✅-最后总结"><a href="#✅-最后总结" class="headerlink" title="✅ 最后总结"></a>✅ 最后总结</h2><p>如果你经常使用 Telegram，想要一个 <strong>干净、快速、靠谱、还能赚点小收益</strong> 的检索工具，<br>那 <strong><a href="https://t.me/jisou?start=telegram_5227955038">极擞搜索</a></strong> 绝对是必备神器。</p><p>TG 世界内容繁杂，用好搜索，即可高效解锁全部优质资源。</p><p><strong>👉 极擞搜索，让你的 Telegram 使用更轻松、更高效、更有价值！</strong></p>]]>
+    </content>
+    <id>https://jisou.dpdns.org/62019/</id>
+    <link href="https://jisou.dpdns.org/62019/"/>
+    <published>2026-09-13T12:30:00.000Z</published>
+    <summary>极擞搜索是专为中文用户打造的 Telegram 智能搜索引擎，界面简洁、检索快速，支持私密搜索，日常搜索还能赚取收益，轻松探索优质 TG 社群与资源。</summary>
+    <title>极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益</title>
+    <updated>2026-09-16T00:06:26.199Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小橙崽</name>
+    </author>
+    <category term="赣南脐橙" scheme="https://jisou.dpdns.org/categories/%E8%B5%A3%E5%8D%97%E8%84%90%E6%A9%99/"/>
+    <category term="赣南脐橙" scheme="https://jisou.dpdns.org/tags/%E8%B5%A3%E5%8D%97%E8%84%90%E6%A9%99/"/>
+    <category term="新鲜水果" scheme="https://jisou.dpdns.org/tags/%E6%96%B0%E9%B2%9C%E6%B0%B4%E6%9E%9C/"/>
+    <category term="产地直发" scheme="https://jisou.dpdns.org/tags/%E4%BA%A7%E5%9C%B0%E7%9B%B4%E5%8F%91/"/>
+    <category term="农家果园" scheme="https://jisou.dpdns.org/tags/%E5%86%9C%E5%AE%B6%E6%9E%9C%E5%9B%AD/"/>
+    <content>
+      <![CDATA[<h1 id="🍊-正宗赣南脐橙｜一口爆汁的秋日甜蜜"><a href="#🍊-正宗赣南脐橙｜一口爆汁的秋日甜蜜" class="headerlink" title="🍊 正宗赣南脐橙｜一口爆汁的秋日甜蜜"></a>🍊 正宗赣南脐橙｜一口爆汁的秋日甜蜜</h1><p>说到秋冬最受欢迎的水果，那一定少不了<strong>赣南脐橙</strong>。</p><p>作为国家地理标志产品，赣南脐橙凭借独特的土壤、气候环境，造就了独一无二的口感，皮薄肉嫩、汁水充盈、酸甜适中，是无数人每年必蹲的季节鲜果。</p><h2 id="🌿-源自核心产区，自然好口感"><a href="#🌿-源自核心产区，自然好口感" class="headerlink" title="🌿 源自核心产区，自然好口感"></a>🌿 源自核心产区，自然好口感</h2><p>我们的脐橙全部产自<strong>江西赣州核心种植区</strong>，山地种植、光照充足、雨露充沛。</p><ul><li>原生态果园种植，自然挂果成熟</li><li>不催熟、不打蜡、不打甜蜜素</li><li>山水滋养，果肉细腻无渣</li><li>果香纯正，自带天然清甜风味</li></ul><p>每一颗橙子都是树上自然熟，充分吸收日照养分，风味远比催熟果更加浓郁纯正。</p><h2 id="💦-皮薄爆汁，口感绝佳"><a href="#💦-皮薄爆汁，口感绝佳" class="headerlink" title="💦 皮薄爆汁，口感绝佳"></a>💦 皮薄爆汁，口感绝佳</h2><p>很多人喜欢赣南脐橙，最大的原因就是：<strong>汁水超级足！</strong></p><ul><li>果皮轻薄，非常好剥</li><li>果肉饱满紧实，颗粒分明</li><li>酸甜黄金比例，不齁不酸</li><li>咬一口汁水四溢，清甜爽口</li></ul><p>无论是直接生吃，还是鲜榨橙汁，口感都非常惊艳，老少皆宜。</p><h2 id="📸-果园实拍，所见即所得"><a href="#📸-果园实拍，所见即所得" class="headerlink" title="📸 果园实拍，所见即所得"></a>📸 果园实拍，所见即所得</h2><p>全程果园现摘，新鲜直发，没有冷库久放，最大程度保留橙子的新鲜口感。</p><h2 id="📦-采摘与发货说明"><a href="#📦-采摘与发货说明" class="headerlink" title="📦 采摘与发货说明"></a>📦 采摘与发货说明</h2><ul><li><strong>采摘时间</strong>：当季成熟，现摘现发</li><li><strong>发货方式</strong>：果园直出，省去中间商</li><li><strong>包装防护</strong>：独立泡沫护果，防磕碰、防挤压</li><li><strong>发货范围</strong>：全国大部分地区可发</li></ul><p>拒绝陈果、残果、次果，每一颗发出的脐橙都经过人工筛选，保证果形完整、成熟度达标。</p><h2 id="✅-食用与保存小贴士"><a href="#✅-食用与保存小贴士" class="headerlink" title="✅ 食用与保存小贴士"></a>✅ 食用与保存小贴士</h2><ol><li>收到果子可通风放置2-3天，甜度会更高</li><li>短期食用常温保存即可</li><li>长期存放可放入冰箱冷藏保鲜</li><li>可直接鲜食、榨汁、做水果甜品，吃法多样</li></ol><h2 id="💬-写在最后"><a href="#💬-写在最后" class="headerlink" title="💬 写在最后"></a>💬 写在最后</h2><p>正宗赣南脐橙，吃的就是一份<strong>新鲜、自然、地道</strong>。</p><p>每一颗都是果园自然成熟的好果，保留最原始的橙香与清甜，秋冬润燥、补充维生素，是全家都适合的健康鲜果。</p><hr><p><strong>本文持续更新果园生长实况与当季上新信息，欢迎持续关注！</strong></p><p><img src="https://pic1.imgdb.cn/i/034NxkX0IA96dgPN5iDwgF.jpg" alt="公众号.jpg"></p>]]>
+    </content>
+    <id>https://jisou.dpdns.org/41559/</id>
+    <link href="https://jisou.dpdns.org/41559/"/>
+    <published>2026-09-13T12:00:00.000Z</published>
+    <summary>正宗赣南脐橙，果园自然成熟，不打蜡、不催熟，果肉饱满多汁，酸甜爽口，是秋冬季节超受欢迎的天然鲜果。</summary>
+    <title>赣南脐橙｜自然成熟、皮薄多汁、正宗产地鲜果</title>
+    <updated>2026-09-16T00:06:26.200Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>小橙崽</name>
+    </author>
+    <category term="技术" scheme="https://jisou.dpdns.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="Hexo" scheme="https://jisou.dpdns.org/tags/Hexo/"/>
+    <category term="博客" scheme="https://jisou.dpdns.org/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://jisou.dpdns.org/16107/</id>
+    <link href="https://jisou.dpdns.org/16107/"/>
+    <published>2026-09-13T02:00:00.000Z</published>
+    <summary>从零搭建 Hexo 博客的快速上手笔记，包含新建文章、本地预览、生成静态文件和部署的常用命令。</summary>
+    <title>Hello World</title>
+    <updated>2026-09-16T00:06:26.198Z</updated>
+  </entry>
+</feed>
