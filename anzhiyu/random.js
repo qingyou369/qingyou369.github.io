@@ -1,4 +1,4 @@
-var posts=["62021/","62019/","cbb5cc4c/","a041593a/","41559/"];function toRandomPost(){
+var posts=["62021/","62019/","a041593a/","cbb5cc4c/","41559/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[{"name":"小橙崽","link":"https://jisou.dpdns.org/","avatar":"https://www.helloimg.com/i/2026/09/13/6aa66df647a86.png","descr":"爱折腾的小橙崽，分享工具、随笔与赣南脐橙果园日常","recommend":true}];
     var refreshNum = 1;
