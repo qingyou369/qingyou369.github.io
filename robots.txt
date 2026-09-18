@@ -1,4 +1,27 @@
 User-agent: *
 Allow: /
 
+#放开ChatGPT、Perplexity大模型爬虫
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+#放开Claude、Gemini、Apple 等大模型爬虫
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+
 Sitemap: https://jisou.dpdns.org/sitemap.xml
+Sitemap: https://jisou.dpdns.org/baidusitemap.xml
