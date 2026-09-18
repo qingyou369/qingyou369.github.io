@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://jisou.dpdns.org/62021/</loc>
+    
+    <lastmod>2026-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jisou.dpdns.org/404.html</loc>
     
     <lastmod>2026-09-18</lastmod>
@@ -161,6 +170,13 @@
   
   <url>
     <loc>https://jisou.dpdns.org/tags/%E5%86%9C%E5%AE%B6%E6%9E%9C%E5%9B%AD/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jisou.dpdns.org/tags/%E5%AE%81%E9%83%BD%E8%84%90%E6%A9%99/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
