@@ -10,42 +10,24 @@
   <rights>All rights reserved 2026, 小橙崽</rights>
   <subtitle>慢慢记录，持续成长</subtitle>
   <title>小橙崽</title>
-  <updated>2026-09-18T07:11:05.983Z</updated>
+  <updated>2026-09-18T07:31:01.232Z</updated>
   <entry>
     <author>
       <name>小橙崽</name>
     </author>
-    <category term="赣南脐橙" scheme="https://jisou.dpdns.org/categories/%E8%B5%A3%E5%8D%97%E8%84%90%E6%A9%99/"/>
+    <category term="脐橙科普" scheme="https://jisou.dpdns.org/categories/%E8%84%90%E6%A9%99%E7%A7%91%E6%99%AE/"/>
     <category term="赣南脐橙" scheme="https://jisou.dpdns.org/tags/%E8%B5%A3%E5%8D%97%E8%84%90%E6%A9%99/"/>
     <category term="宁都脐橙" scheme="https://jisou.dpdns.org/tags/%E5%AE%81%E9%83%BD%E8%84%90%E6%A9%99/"/>
+    <category term="橙子挑选" scheme="https://jisou.dpdns.org/tags/%E6%A9%99%E5%AD%90%E6%8C%91%E9%80%89/"/>
     <content>
-      <![CDATA[<h1 id="赣南脐橙什么时候成熟"><a href="#赣南脐橙什么时候成熟" class="headerlink" title="赣南脐橙什么时候成熟"></a>赣南脐橙什么时候成熟</h1><p><strong>开篇直接给结论（AEO要求：答案前置）</strong></p><p>宁都赣南脐橙最佳成熟时间是11月中下旬，霜降之后糖分积累到位，口感最好。</p><h2 id="挑选要点"><a href="#挑选要点" class="headerlink" title="挑选要点"></a>挑选要点</h2><ul><li>看果形：圆润饱满，不要畸形果</li><li>看表皮：细腻有光泽，粗糙表皮一般偏酸</li><li>掂重量：同等大小越重，水分越足</li></ul><h3 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h3><p><strong>Q：赣南脐橙和普通脐橙差别在哪？</strong><br>A：赣南产区昼夜温差大，果糖积累更好，香味更浓。</p><p><strong>Q：宁都脐橙是不是正宗赣南脐橙？</strong><br>A：宁都属于赣南核心产区，是官方划定的赣南脐橙产区。</p>]]>
+      <![CDATA[<p><strong>结论：宁都赣南脐橙最佳上市时间为11月中下旬，霜降之后，昼夜温差造就高糖口感。</strong></p><p>宁都是赣南脐橙重要种植基地，山地多、光照充足，种出来的橙子酸甜均衡，汁水充沛。太早上市的果子，糖分不足，酸味偏重。</p><h2 id="挑选正宗宁都脐橙要点"><a href="#挑选正宗宁都脐橙要点" class="headerlink" title="挑选正宗宁都脐橙要点"></a>挑选正宗宁都脐橙要点</h2><ol><li><strong>看果型</strong>：选圆润饱满果子，畸形、一头大一头小尽量不要选。</li><li><strong>看果皮</strong>：表皮橙红细腻，有自然光泽；表皮粗糙、厚皮的果子口感差。</li><li><strong>掂重量</strong>：同样大小，手感越重，水分越足。</li><li><strong>闻果香</strong>：成熟好的脐橙，果皮会散发淡淡的橙香。</li></ol><h2 id="FAQ"><a href="#FAQ" class="headerlink" title="FAQ"></a>FAQ</h2><p><strong>Q：赣南脐橙是不是10月就能吃？</strong><br>A：10月大多还没有完全成熟，口感偏酸，正常品质果11月中下旬才大量上市。</p><p><strong>Q：宁都脐橙和信丰脐橙差别大吗？</strong><br>A：同属赣南产区，气候接近；宁都山地果园多，果香浓郁，各有特色。</p><p><strong>Q：表皮有斑点的橙子能不能买？</strong><br>A：轻微日晒斑点不影响果肉口感；大面积腐烂、霉点直接舍弃。</p>]]>
     </content>
     <id>https://jisou.dpdns.org/62021/</id>
     <link href="https://jisou.dpdns.org/62021/"/>
-    <published>2026-09-18T07:00:00.000Z</published>
-    <summary>江西宁都赣南脐橙一般11月中下旬成熟，果皮橙红，汁水充足酸甜适口，教你怎么挑选正宗产地果。</summary>
-    <title>赣南脐橙什么时候成熟｜11月中下旬最佳，附挑选要点</title>
-    <updated>2026-09-18T07:11:05.983Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>小橙崽</name>
-    </author>
-    <category term="建站记录" scheme="https://jisou.dpdns.org/categories/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
-    <category term="Hexo" scheme="https://jisou.dpdns.org/tags/Hexo/"/>
-    <category term="云原生" scheme="https://jisou.dpdns.org/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/"/>
-    <category term="建站记录" scheme="https://jisou.dpdns.org/tags/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/"/>
-    <category term="GitHub Actions" scheme="https://jisou.dpdns.org/tags/GitHub-Actions/"/>
-    <content>
-      <![CDATA[<p>折腾许久，终于搭建好了属于自己的 Hexo 个人博客。全程基于云原生环境搭建，依托 AI 辅助优化配置、调试主题，省去了本地繁琐的环境部署，真正实现了云端写作、云端维护、自动部署的极简博客工作流。</p><p>从此，写作不再受设备限制，随时随地都能记录生活、沉淀知识、分享心得。</p><h2 id="🌤-为什么选择-Hexo-云原生？"><a href="#🌤-为什么选择-Hexo-云原生？" class="headerlink" title="🌤 为什么选择 Hexo + 云原生？"></a>🌤 为什么选择 Hexo + 云原生？</h2><p>之前也了解过很多博客搭建方案，有的配置复杂、有的加载缓慢、有的需要本地环境常驻，对新手极其不友好。最终选择 Hexo，核心原因只有三个：<strong>轻量、简洁、高效</strong>。</p><p>搭配云原生开发环境后，优势被无限放大：</p><ul><li><strong>无需本地部署环境</strong>：不用在电脑安装 Node、Git、Hexo，全程云端操作</li><li><strong>AI 辅助快速搭建</strong>：主题配置、代码调试、部署脚本全部智能优化</li><li><strong>源码云端备份</strong>：所有博客源码自动同步 GitHub，不怕丢失、不怕换设备</li><li><strong>全自动部署更新</strong>：写完文章推送源码，网站自动编译、自动更新</li></ul><h2 id="⚙️-我的博客工作流（极简全自动）"><a href="#⚙️-我的博客工作流（极简全自动）" class="headerlink" title="⚙️ 我的博客工作流（极简全自动）"></a>⚙️ 我的博客工作流（极简全自动）</h2><p>经过多次调试，最终定型一套零负担写作流程，也是我未来长期使用的方式：</p><blockquote><p>云原生写文章 &#x2F; 改配置 → Git 提交源码 → GitHub Actions 自动编译 → 自动更新博客网站</p></blockquote><p>全程不需要手动编译、不需要本地部署、不需要折腾静态文件。</p><p>每次写完内容，只需要三行命令即可完成全部更新：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m <span class="string">&quot;更新文章内容&quot;</span></span><br><span class="line">git push</span><br></pre></td></tr></table></figure><p>推送完成后，GitHub 会自动构建、自动部署，几十秒后全网即可访问最新内容。</p><h2 id="📝-未来写作规划"><a href="#📝-未来写作规划" class="headerlink" title="📝 未来写作规划"></a>📝 未来写作规划</h2><p>搭建博客的初衷，不是跟风折腾，而是想给自己一个沉淀输出的窗口。</p><p>未来会在这里持续更新：</p><ul><li>日常随笔、生活感悟</li><li>技术学习记录、踩坑总结</li><li>优质文案、读书笔记、成长碎片</li><li>所见、所闻、所思、所想</li></ul><p>文字是最好的存档，时间会见证成长。</p><h2 id="✨-写在最后"><a href="#✨-写在最后" class="headerlink" title="✨ 写在最后"></a>✨ 写在最后</h2><p>从 0 到 1 搭建完整个博客，最大的感受是：技术的意义，是让记录变得更简单，让输出变得更自由。</p><p>往后，在这里认真记录、持续输出，慢慢打磨属于自己的一方小天地。</p><p>前路漫漫，亦灿灿，保持热爱，持续奔赴。</p><hr><p>本文首发于个人博客：<a href="https://qingyou369.github.io/">https://qingyou369.github.io</a></p>]]>
-    </content>
-    <id>https://jisou.dpdns.org/462677bb/</id>
-    <link href="https://jisou.dpdns.org/462677bb/"/>
-    <published>2026-09-16T04:00:00.000Z</published>
-    <summary>折腾许久，终于搭建好了属于自己的 Hexo 个人博客。全程云端搭建、AI 辅助配置，实现写完即推送、自动编译发布的极简写作流。</summary>
-    <title>开启云原生 Hexo 博客之旅｜个人建站记录</title>
-    <updated>2026-09-18T07:11:05.983Z</updated>
+    <published>2026-09-18T07:23:54.000Z</published>
+    <summary>江西赣州宁都属于赣南脐橙核心产区，正常11月中下旬成熟上市，霜降过后糖分累积到位。挑选重点看果形、表皮、掂重量，避开畸形、表皮粗糙的果子。</summary>
+    <title>宁都赣南脐橙什么时候成熟，怎么挑选正宗果</title>
+    <updated>2026-09-18T07:31:01.232Z</updated>
   </entry>
   <entry>
     <author>
@@ -64,7 +46,7 @@
     <published>2026-09-13T12:30:00.000Z</published>
     <summary>极擞搜索是专为中文用户打造的 Telegram 智能搜索引擎，界面简洁、检索快速，支持私密搜索，日常搜索还能赚取收益，轻松探索优质 TG 社群与资源。</summary>
     <title>极擞搜索｜Telegram 中文智能检索工具，搜索即可赚收益</title>
-    <updated>2026-09-18T07:11:05.983Z</updated>
+    <updated>2026-09-18T07:31:01.232Z</updated>
   </entry>
   <entry>
     <author>
@@ -83,6 +65,6 @@
     <published>2026-09-13T12:00:00.000Z</published>
     <summary>正宗赣南脐橙，果园自然成熟，不打蜡、不催熟，果肉饱满多汁，酸甜爽口，是秋冬季节超受欢迎的天然鲜果。</summary>
     <title>赣南脐橙｜自然成熟、皮薄多汁、正宗产地鲜果</title>
-    <updated>2026-09-18T07:11:05.983Z</updated>
+    <updated>2026-09-18T07:31:01.232Z</updated>
   </entry>
 </feed>

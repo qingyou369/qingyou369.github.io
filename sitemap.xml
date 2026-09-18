@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jisou.dpdns.org/462677bb/</loc>
+    <loc>https://jisou.dpdns.org/62021/</loc>
     
     <lastmod>2026-09-18</lastmod>
     
@@ -21,15 +21,6 @@
   
   <url>
     <loc>https://jisou.dpdns.org/41559/</loc>
-    
-    <lastmod>2026-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jisou.dpdns.org/62021/</loc>
     
     <lastmod>2026-09-18</lastmod>
     
@@ -92,28 +83,21 @@
 
   
   <url>
-    <loc>https://jisou.dpdns.org/tags/Hexo/</loc>
+    <loc>https://jisou.dpdns.org/tags/%E8%B5%A3%E5%8D%97%E8%84%90%E6%A9%99/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jisou.dpdns.org/tags/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
+    <loc>https://jisou.dpdns.org/tags/%E5%AE%81%E9%83%BD%E8%84%90%E6%A9%99/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jisou.dpdns.org/tags/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jisou.dpdns.org/tags/GitHub-Actions/</loc>
+    <loc>https://jisou.dpdns.org/tags/%E6%A9%99%E5%AD%90%E6%8C%91%E9%80%89/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -148,13 +132,6 @@
   </url>
   
   <url>
-    <loc>https://jisou.dpdns.org/tags/%E8%B5%A3%E5%8D%97%E8%84%90%E6%A9%99/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jisou.dpdns.org/tags/%E6%96%B0%E9%B2%9C%E6%B0%B4%E6%9E%9C/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,17 +152,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://jisou.dpdns.org/tags/%E5%AE%81%E9%83%BD%E8%84%90%E6%A9%99/</loc>
-    <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://jisou.dpdns.org/categories/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://jisou.dpdns.org/categories/%E8%84%90%E6%A9%99%E7%A7%91%E6%99%AE/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
